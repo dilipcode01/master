@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "myuser",
+    "password": "password",
+    "database": "testdb1",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "myuser",
+    "password": "sadf2@awun!h872qc3r",
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "myuser",
+    "password": "adsfbgy!2341ff-0aw@weaf",
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
